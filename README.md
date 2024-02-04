@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Header](./github-header-image (1).png)
 <!--
 **fi1na/fi1na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

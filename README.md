@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **react and python**
 
-- 📫 How to reach me **fionadash.11@gmail.com**
-
 - ⚡ Fun fact **I am Funny :-)**
 
 <h3 align="left">Connect with me:</h3>
